@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/edu-website-test/static/css/main.445fcc26.css",
+    "main.js": "/edu-website-test/static/js/main.96b83ab2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/edu-website-test/static/js/787.28cb0dcd.chunk.js",
+    "static/media/tc.png": "/edu-website-test/static/media/tc.66e132f330fd312fe176.png",
+    "static/media/meta.jpeg": "/edu-website-test/static/media/meta.7e3f88a1b4640d37c922.jpeg",
+    "static/media/miya.jpg": "/edu-website-test/static/media/miya.cfeb40c12ffb25457bb8.jpg",
+    "static/media/footer.png": "/edu-website-test/static/media/footer.c784afd004b3e6047ce1.png",
+    "static/media/logo.png": "/edu-website-test/static/media/logo.e30880f38a2c19d773ee.png",
+    "static/media/sd.png": "/edu-website-test/static/media/sd.0897abc962b9843e2ae7.png",
+    "static/media/dg.png": "/edu-website-test/static/media/dg.9624ed4cc0ac7f4e8024.png",
+    "static/media/ai.png": "/edu-website-test/static/media/ai.0b1f4f6f49e69c33509f.png",
+    "index.html": "/edu-website-test/index.html",
+    "main.445fcc26.css.map": "/edu-website-test/static/css/main.445fcc26.css.map",
+    "main.96b83ab2.js.map": "/edu-website-test/static/js/main.96b83ab2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/edu-website-test/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.445fcc26.css",
+    "static/js/main.96b83ab2.js"
+  ]
+}
